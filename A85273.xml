@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Master Fynes his speech in Parliament: touching the proffer of the citie of London by the Lord Maior: on Thursday the 17. of February, 1641. to disburse 60000l. towards the suppressing the rebellion in Ireland.</title>
+            <author>Fiennes, Nathaniel, 1607 or 8-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85273</idno>
+            <idno type="STC">Wing F879</idno>
+            <idno type="STC">Thomason E200_29</idno>
+            <idno type="STC">ESTC R212619</idno>
+            <idno type="EEBO-CITATION">99871222</idno>
+            <idno type="PROQUEST">99871222</idno>
+            <idno type="VID">157570</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157570)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Master Fynes his speech in Parliament: touching the proffer of the citie of London by the Lord Maior: on Thursday the 17. of February, 1641. to disburse 60000l. towards the suppressing the rebellion in Ireland.</title>
+                  <author>Fiennes, Nathaniel, 1607 or 8-1669.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>rinted for F.C. and T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "17 feb:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157570:1" rendition="simple:additions"/>
+            <p>
+               <hi>MASTER</hi> FYNES HIS SPEECH IN PARLIAMENT: Touching the proffer of the Citie of LONDON by the Lord Maior: on Thurſday the 17. of <hi>February,</hi> 1641. to disburſe 60000 l. towards the ſuppreſſing the Rebellion in IRELAND.</p>
+            <figure>
+               <figDesc>woodcut of a crown bordered by two birds</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. C.</hi> and <hi>T. B.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oration">
+            <pb facs="tcp:157570:2"/>
+            <pb n="1" facs="tcp:157570:2"/>
+            <head>MASTER <hi>FYNES</hi> HIS SPEECH IN <hi>PARLIAMENT:</hi> Touching the proffer of the Citie of <hi>London</hi> by the Lord Maior, on Thurſday the 17. of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> to disburſe 60000l. towards the ſuppreſſing the Rebellion in <hi>Ireland.</hi> Anno Dom. 1641.</head>
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His propoſition made by the Citie of <hi>London,</hi> for the loane of the ſumme of money, towards the ſup<g ref="char:EOLhyphen"/>preſſing of the Rebels in <hi>Ireland,</hi> is not in my opinion to be rejected: The conditions under which they will disburſe the ſame, is now the thing we have to conſider of: <hi>viz.</hi>
+            </p>
+            <p n="1">1. That <hi>London-Derry</hi> in <hi>Ireland,</hi> now in ſubje<g ref="char:EOLhyphen"/>ction to the Rebels, when recovered, may be reſto<g ref="char:EOLhyphen"/>red to them; and ſatisfaction made by the Rebels for the damage done thereto.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:157570:3"/>2. That all that ſhall be wonne, both lands and goods, from the Rebels, by the Army paid with their money, may be theirs for the ſame.</p>
+            <p n="3">3. That if nought be recovered from them, they are willing to loſe their money.</p>
+            <p>Theſe propoſitions I conceive (under favour) to be very reaſonable, and may without much difficul<g ref="char:EOLhyphen"/>ty be conſented unto, and that for theſe reaſons.</p>
+            <p n="1">1. The rebellion in <hi>Ireland</hi> is ſo generall, that it is not the force of one Army can ſuppreſſe them in every place; and if the like proffer were made ei<g ref="char:EOLhyphen"/>ther by other Cities, or the Merchants joyne to<g ref="char:EOLhyphen"/>gether, or if any great perſonages in this King<g ref="char:EOLhyphen"/>dome, whereof money or armes, or what force they could raiſe for other ſeverall places in ſubjection to the Rebels, and upon ſuch propoſitions to be pre<g ref="char:EOLhyphen"/>ſented unto the Parliament; I conceive it would be the ſpeedieſt courſe to ſubdue the Rebels, and reduce that Kingdome to the due obedience to His Majeſtie and the Crowne of <hi>England,</hi> and to the Lawes and Ordinances made by His Majeſtie, and His States of both Kingdomes.</p>
+            <p n="2">2. By this means the Souldiers will be much ani<g ref="char:EOLhyphen"/>mated and incouraged to fight, when they ſhal fight not onely for Religion, their King and Countrey, but alſo for their owne profits and particular be<g ref="char:EOLhyphen"/>nefit, that what they valiantly win is their owne: This will put life and vigour into them, make them chearefull and willing to hazard themſelves, not onely in their perſons, but even their eſtates and fortunes, if need require, upon ſuch grounds and
+<pb n="3" facs="tcp:157570:3"/> hopes, conceiving if they loſe their lives, or for<g ref="char:EOLhyphen"/>tunes, or both, yet may they be confident of their reward in the other world, even from God himſelf, and his Chriſt, whoſe cauſe they have undertaken, whoſe moſt holy Word and Doctrine they ſtrive to maintaine in its purity and ſincerity, his true reli<g ref="char:EOLhyphen"/>gion ſeeke to uphold and defend, and his honour and glory endeavour to vindicate. They cannot likewiſe expect otherwiſe then reward in their po<g ref="char:EOLhyphen"/>ſterity and kindred by their King and Countrey, whoſe cauſe it is alſo they undertake to defend, and whoſe honour and ancient fame and glory they en<g ref="char:EOLhyphen"/>deavour to revive, and vindicate againſt the open and publique enemies and adverſaries to the ſame.</p>
+            <p n="3">3. By this means many that are revolted from the Proteſtants to the Rebels may be drawne to returne, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd many that are not yet revolted (although favou<g ref="char:EOLhyphen"/>rers of their cauſe, and well-wiſhers to them) nay perchance of their Religion, be dehorted from the ſame, and meerely for hopes of profit and prefer<g ref="char:EOLhyphen"/>ment, may remaine faithfull and ſtedfaſt in their ſervice to their lawfull King and native Countrey; What man but deſperate will take part in the de<g ref="char:EOLhyphen"/>fence of a cauſe that no way can bee conceived pro<g ref="char:EOLhyphen"/>ſperous or profitable; they may increaſe in ſtrength, and be permitted to do great miſchiefe and damage to the Proteſtants, but this muſt have an end, this cannot long continue, bloud requires bloud, ven<g ref="char:EOLhyphen"/>geance will be at laſt repayed by him who hath all power in his hands both of Heaven and Earth, to their ſhame and utter confuſion, and Chriſt and his
+<pb n="4" facs="tcp:157570:4"/> ſervants muſt have the victory: nay, former times have made this manifeſt. The troubles in this Kingdome in the raigne of King <hi>Henry</hi> the eighth, by that faction raiſed after that Prince endeavoured to purge the Church and this Land of Idolatry, which continued from the 28. to the 31. yeare of his raigne, yet at laſt they were ſubdued both in this Kingdome and the Kingdome of <hi>Ireland,</hi> and the troubles in the raigne of Queene <hi>Elizabeth</hi> of good memory not much inferiour to the preſent diſtem<g ref="char:EOLhyphen"/>pers of both States, raiſed alſo by the ſame faction, were at length appeaſed and brought to true ſubje<g ref="char:EOLhyphen"/>ction to the Queene and Crowne of <hi>England:</hi> We have had experience aſwell now of later times as formerly of their devilliſh practiſes and ſtratagems privately agitated when they could not prevaile by publique inſurrection, yet few through the good providence of God have taken effect, but have been avoyded and prevented by ſome meanes or other. Theſe things conſidered and joyned with future hopes of preferment, may prove a maine cauſe to dehort Souldiers from revolting to the Rebels, and to draw ſuch as are revolted backe againe to their lawfull ſervice and true obedience.</p>
+            <p n="4">4. Laſtly, hereby may forraigne States be mo<g ref="char:EOLhyphen"/>ved to withdraw their ayde and aſſiſtance, intended to ſupply the Rebels withall, when they ſhall per<g ref="char:EOLhyphen"/>ceive that ſuch force is providing of all ſorts of men for ſupply of the Proteſtants, and the reaſons and grounds which moves them ſo willingly to take Armes, that it is very improbable and unlikely
+<pb n="5" facs="tcp:157570:4"/> ſuch ſucceſſe of their enterpriſes will follow as is deſired: And that the Rebels are very unconſtant if in danger to be overcome, and conſidering the un<g ref="char:EOLhyphen"/>juſtneſſe of their cauſe, being onely publique rebel<g ref="char:EOLhyphen"/>lion againſt their lawfull Soveraigne, onely cloaked and covered under the bare title of the defence of their Religion, and pretended liberties in the exer<g ref="char:EOLhyphen"/>ciſe thereof in that Kingdome, they (I conceive) will be the more cautious how they intangle them<g ref="char:EOLhyphen"/>ſelves in the defence of their unjuſt quarrell. And thus much of the reaſons why I conceive theſe pro<g ref="char:EOLhyphen"/>poſitions of the Citie of <hi>London</hi> is convenient and neceſſary to be conſented unto, and confirmed by Parliament: which notwithſtanding I humbly leave to the further conſideration of this Honourable Houſe.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Averred by George Nixon Clerke.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
